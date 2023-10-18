@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(33, 33, 33);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: black;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1%;
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  left: 1.5%;
+}
+
+.logo img {
+  width: 25%;
+  height: 30%;
+}
+
+h1 {
+  font-size: 160%;
+  margin: 0;
+}
+
+main {
+  max-width: 95%;
+  margin: 1% auto;
+  padding: 1%;
+  background-color: black;
+  box-shadow: 5px 5px 5px 5px rgba(64, 0, 59, 0.419);
+}
+
+section {
+  margin-bottom: 1%;
+}
+
+h2 {
+  font-size: 160%;
+  color: #800080;
+}
